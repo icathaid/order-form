@@ -1,7 +1,11 @@
 # order-form
 
-I am so far behind on the lab that this is built on that I'm still chasing my tail trying to get data into and out of local storage in any kind of meaningful way.  
+I started this pretty far behind and had to stop and go back to my busmall project for a while to work my way though the local storage stuff.  
 
-I deleted the only working function I had trying to do something, then got interrupted, and now i have no idea what i was in the middle of trying to do.  
+I didn't get very far, but I got a LOT further than when I was just trying to brute force my way through it.  
 
-The closest I got was that clicking on something from the dropdown would record its index in an array in local storage and return the index position to the user.  I can use this to drive a click counter but I don't have any idea how to have an input field for quantity or any of the other goals.  At this point I feel like it will be faster to go back and catch up on everything in order than to keep trying to brute force a bunch of methods I have no idea how to actually use.
+I'm turning in what I have because it's as far as I'm going to get with it with the time I can afford to throw at it.  After project week I'd really like to finish it up and incorporate it in my actual busmall project but it's time to focus on what's ahead.
+
+I fell asleep working on this again so I'm not even 100% sure where I left off.  My initial version of this would return the index position of each product after clicking on it, but I deleted that at some point while trying to fix something and never re-implemented it.  
+
+I popped back over to my busmall project to get a better handle on the localStorage aspect but I didn't get around to putting what I learned back into this project.  I got a little bit more built out with the dropdowns and input forms before I fell asleep.
